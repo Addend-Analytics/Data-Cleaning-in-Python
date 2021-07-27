@@ -35,7 +35,7 @@ Data cleaning tasks that are performed on the dataset are -
 
 1. Dropping unrequired columns
 2. Replacing Wrong Values
-3. Mormalizing Columns
+3. Normalizing Columns
 
 ## Blog Link
 
